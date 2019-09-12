@@ -6,12 +6,12 @@ header={'Host': 'cn.made-in-china.com',
 'Accept-Language': 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
 'Referer': 'https://www.baidu.com/link?url=W9OZPLxn3EW1k38J5b5FeRLyeRnsLq6M2uRzSaePPdpLzGF_MUHDriQv57jJ7evc&wd=&eqid=80b9a9f500218737000000065d526331',
 'Connection': 'close',
-'Cookie': 'pid=TguMjQwLjI2LjIwMzIwMTkwODEzMTQ0OTM1NzgxNzE0MzIwNzYN; Hm_lvt_dcd77103e55fb7327c5d9c24690a3d89=1565678977; _visit_times_=YAHVj+jfk12B5uh5HjQ37A==; sf_img=AM; __utma=144487465.1418075219.1565678996.1565678996.1565678996.1; __utmb=144487465.3.10.1565678996; __utmz=144487465.1565678996.1.1.utmcsr=baidu|utmccn=(organic)|utmcmd=organic; se=TguMjQwLjI2LjIwMzIwMTkwODEzMTUxNDAyOTc1OTA5NjMxNzgN',
+'Cookie': 'pid=es_=YAHV12B5Q37A==; sf_img=AM; __utma=1465.141807219.1565678996.1565678996678996.1; __utmb=14465.3.10.15696; __utmz=144.156896.1.1.utmcsr=baidu|utmccn=(organic)|utmnic; se=TguMjQwLjI2LjIwMzIwMAyOTc1OTzgN',
 'Upgrade-Insecure-Requests': '1',
 'If-Modified-Since': 'Tue, 13 Aug 2019 06:54:15 GMT',
 'If-None-Match': 'GUDknC'
 }
-url='https://cn.made-in-china.com/'
+url='https://cn.xx.com'
 
 #向服务器发送option报文以
 response=requests.options(url=url,headers=header)
